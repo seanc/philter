@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 philter
 ============
 > A cross-platform proxy checker CLI tool.
@@ -32,7 +31,3 @@ Options:
  [sean-image]: https://avatars0.githubusercontent.com/u/13725538?v=3&s=125
  
  [license]: LICENSE
-=======
-# philter
-Proxy checker CLI tool
->>>>>>> 0354cecd2f8bb7479a7e6417cbde355ec7cde182
