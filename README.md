@@ -5,6 +5,7 @@ philter
 ## Installation
 ```shell
 $ git clone git@github.com:seanc/philter.git
+$ cd philter && mix escript.build
 ```
 
 ## Usage
