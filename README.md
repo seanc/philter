@@ -9,7 +9,7 @@ $ cd philter && mix escript.build
 ```
 
 ## Usage
-```shell
+```
 Usage: philter --file [proxy file] --website [http://example.org] --timeout 100 --output working.txt
 
 Options:
