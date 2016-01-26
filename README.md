@@ -2,7 +2,7 @@ philter
 ============
 > A cross-platform proxy checker CLI tool.
 
-**Note** philter currently only supports HTTP proxies, SOCKS proxy support will be added in v2
+**Note** - philter currently only supports HTTP proxies, SOCKS proxy support will be added in v2
 
 ## Installation
 ```shell
