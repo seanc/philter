@@ -12,7 +12,7 @@ $ cd philter && mix escript.build
 
 ## Usage
 ```
-Usage: philter --file [proxy file] --website [http://example.org] --timeout 100 --output working.txt
+Usage: ./philter --file [proxy file] --website [http://example.org] --timeout 100 --output working.txt
 
 Options:
   --help    Show this message
